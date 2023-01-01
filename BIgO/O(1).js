@@ -1,4 +1,4 @@
-// O(1) --> Constant time
+// O(1) --> Constant Time
 
 const boxes = [0, 1, 2, 3, 4, 5];
 
