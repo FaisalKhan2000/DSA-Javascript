@@ -29,7 +29,7 @@ class MyArray {
 
   shiftItems(index) {
     for (let i = index; i < this.length; i++) {
-      this.data[i] = this.data[i + 1];
+      this.data[i] = this.data[i + 1]; // [1,2,3,4,5] --> if index = 1 --> [1,3,4,5,5]
     }
     // console.log(this.data[this.length - 1]);
     delete this.data[this.length - 1];
