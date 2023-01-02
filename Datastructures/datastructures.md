@@ -21,3 +21,5 @@ These are just a few examples of the many different data structures that exist. 
 ![This is an image1](https://blog.benoitvallon.com/img/2016-01-11-data-structures-in-javascript/big-o.png)
 
 ![This is an image2](https://blog.benoitvallon.com/img/2016-01-11-data-structures-in-javascript/big-o-complexity.png)
+
+[Data Structures interactive graph](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link/c25f98c73a03f5b1107cd0e2f4bce29c9d78e31655e55cb0b785d56f0036c9d1)
