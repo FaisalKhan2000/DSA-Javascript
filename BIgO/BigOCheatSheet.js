@@ -33,7 +33,7 @@ Rule 3: Different inputs should have different variables. O(a+b). A and B arrays
             * for nested steps
 Rule 4: Drop Non-dominant terms
 
-!-----------------------------------
+-----------------------------------
 
 *-What causes Space complexity?-
 
